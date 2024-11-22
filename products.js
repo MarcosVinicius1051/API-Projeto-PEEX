@@ -4,7 +4,7 @@ const products = [
     title: "roupa Infantil 1",
     description: "roupa infantil bla bla bla",
     imgage:
-      "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/viasolbrazil/media/uploads/produtos/foto/xuxuaixo/img_2248-copia-copia-2-copia.jpg",
+      "https://images.tcdn.com.br/img/img_prod/1170586/conjunto_de_inverno_roupa_infantil_para_menino_tam_1_2_3_sem_capuz_29_1_e3db00f7db526532c2c50755f30cdbd6.jpg",
     category: "roupa infantil",
     class: "roupaInfantil",
     price: "100",
@@ -15,7 +15,7 @@ const products = [
     title: "roupa Infantil 1",
     description: "roupa infantil bla bla bla",
     imgage:
-      "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/viasolbrazil/media/uploads/produtos/foto/xuxuaixo/img_2248-copia-copia-2-copia.jpg",
+      "https://images.tcdn.com.br/img/img_prod/1170586/conjunto_de_inverno_roupa_infantil_para_menino_tam_1_2_3_sem_capuz_29_1_e3db00f7db526532c2c50755f30cdbd6.jpg",
     category: "roupa infantil",
     class: "roupaInfantil",
     price: "100",
@@ -26,7 +26,7 @@ const products = [
     title: "roupa Infantil 1",
     description: "roupa infantil bla bla bla",
     imgage:
-      "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/viasolbrazil/media/uploads/produtos/foto/xuxuaixo/img_2248-copia-copia-2-copia.jpg",
+      "https://images.tcdn.com.br/img/img_prod/1170586/conjunto_de_inverno_roupa_infantil_para_menino_tam_1_2_3_sem_capuz_29_1_e3db00f7db526532c2c50755f30cdbd6.jpg",
     category: "roupa infantil",
     class: "roupaInfantil",
     price: "100",
@@ -37,7 +37,7 @@ const products = [
     title: "roupa Infantil 1",
     description: "roupa infantil bla bla bla",
     imgage:
-      "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/viasolbrazil/media/uploads/produtos/foto/xuxuaixo/img_2248-copia-copia-2-copia.jpg",
+      "https://images.tcdn.com.br/img/img_prod/1170586/conjunto_de_inverno_roupa_infantil_para_menino_tam_1_2_3_sem_capuz_29_1_e3db00f7db526532c2c50755f30cdbd6.jpg",
     category: "roupa infantil",
     class: "roupaInfantil",
     price: "100",
@@ -48,7 +48,7 @@ const products = [
     title: "roupa Infantil 1",
     description: "roupa infantil bla bla bla",
     imgage:
-      "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/viasolbrazil/media/uploads/produtos/foto/xuxuaixo/img_2248-copia-copia-2-copia.jpg",
+      "https://images.tcdn.com.br/img/img_prod/1170586/conjunto_de_inverno_roupa_infantil_para_menino_tam_1_2_3_sem_capuz_29_1_e3db00f7db526532c2c50755f30cdbd6.jpg",
     category: "roupa infantil",
     class: "roupaInfantil",
     price: "100",
